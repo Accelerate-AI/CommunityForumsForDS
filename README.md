@@ -8,7 +8,7 @@ Focus on few dimensions:
 - Active participation in Discussions
 - Participate and experience in Competitions
 - Write Blogs, Point of Views
-- Presence on Publications, Patents
+- Build skills to contribute to Publications, Patents in the medium to long term focus
 - Build thought leadership (for senior roles/practitioners) on an ongoing basis
 
 ### Key 10 Forums for Data Scientists to start venturing into:
@@ -28,10 +28,10 @@ This is just a non-exhaustive list and representation for learning purposes. How
 
 ### Recommended Outcomes to Plan
 
-- Target to write 1 blogs every quarter on forums such as Medium
+- Target to write 1 blogs every quarter on forums such as Medium.com
 - Ability to read, digest and understand research papers / publication papers within 1 yr of learning Data Science skills
-- Try to move from Novice to Contributor within 1-2 weeks in Kaggle, and then to Expert level in Kaggle within few months depending your time and participation. Key is to be regular and then continuously learn
-- 1-2 Patents or Publications within 2 yrs into Data Science field
+- Try to move from Novice to Contributor within few weeks in Kaggle, and then to Expert level in Kaggle within few months depending your time and participation. Key is to be regular and then continuously learn
+- 1-2 Patents and/or Publications within 2 yrs into Data Science field
 
 
 ### Involvement in other Quorums

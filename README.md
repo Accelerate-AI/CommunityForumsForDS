@@ -30,6 +30,12 @@ This is just a non-exhaustive list and representation for learning purposes. How
 
 - Target to write 1 blogs every quarter on forums such as Medium.com
 - Ability to read, digest and understand research papers / publication papers within 1 yr of learning Data Science skills
+- Showcase your breadth in multiple Machine Learning techniques
+  - Regression Methods
+  - Classification Methods
+  - Clustering Methods
+  - Forecasting Methods 
+  - Recommendation Methods etc. 
 - Try to move from Novice to Contributor within few weeks in Kaggle, and then to Expert level in Kaggle within few months depending your time and participation. Key is to be regular and then continuously learn
 - 1-2 Patents and/or Publications within 2 yrs into Data Science field
 
